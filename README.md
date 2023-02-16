@@ -3,7 +3,7 @@ For OER no3
 
 Δημιουργός: Δ. Γιάτας
 Χρονολογία: 2021
-Υπερσύνδεσμος πρόσβασης του OER:https://www.tinkercad.com/things/0eAdRHsHUeB-parkingcontrolyiatas
+Υπερσύνδεσμος πρόσβασης του OER: https://www.tinkercad.com/things/0eAdRHsHUeB-parkingcontrolyiatas
 Σκοπός/πλαίσιο δημιουργίας του OER: Διατάξεις αυτοματισμού και κώδικας 
 Γνωστικό/ά Αντικείμενο/α: Πληροφορική Λυκείου, Αυτοματισμοί, Ρομποτική
 Βαθμίδα Εκπαίδευσης: Γυμνάσιο - Λύκειο
